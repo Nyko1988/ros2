@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='myko',
-    maintainer_email='nikolai06737100503gmail.com',
+    maintainer_email='nikolai06737100503@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     extras_require={
@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            "py_node = my_py_pkg.my_first_node:main"
         ],
     },
 )
