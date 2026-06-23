@@ -1,1 +1,5 @@
 .vscode/
+src/.vscode/browse.vc.db
+src/.vscode/browse.vc.db-shm
+src/.vscode/browse.vc.db-wal
+src/.vscode/c_cpp_properties.json
